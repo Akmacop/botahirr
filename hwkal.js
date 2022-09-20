@@ -27,8 +27,8 @@ global.botname = 'ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰' //ubah jadi
 global.footer = 'ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
+global.owner = ['6287711367388']
+global.premium = ['6287711367388']
 global.packname = 'Private'
 global.ownerr = ['ꪶ 𝐌𝐈𝐊𝐀𝐙𝐎 𝐇𝐄𝐑𝐄 丰']
 global.author = 'Mikazo'
